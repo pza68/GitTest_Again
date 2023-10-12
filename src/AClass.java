@@ -1,3 +1,3 @@
 public class AClass {
-  // comment
+  // comment 2
 }
